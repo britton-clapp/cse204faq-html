@@ -6,10 +6,31 @@
     <description>Recent content in Questions on CSE 204 Frequently Asked Questions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 07:31:37 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 13:56:20 -0500</lastBuildDate>
     
 	<atom:link href="https://britton-clapp.github.io/cse204faq-html/question/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cant Find Github Pages Link</title>
+      <link>https://britton-clapp.github.io/cse204faq-html/question/cant-find-github-pages-link/</link>
+      <pubDate>Wed, 11 Sep 2019 13:56:20 -0500</pubDate>
+      
+      <guid>https://britton-clapp.github.io/cse204faq-html/question/cant-find-github-pages-link/</guid>
+      <description>Go to https://github.com, make sure you&amp;rsquo;re logged in, and go to your repository for the assignment. Click on the &amp;ldquo;Settings&amp;rdquo; tab.
+Scroll down to the &amp;ldquo;Github Pages&amp;rdquo; settings and change the &amp;ldquo;Source&amp;rdquo; to &amp;ldquo;Master Branch&amp;rdquo; and click &amp;ldquo;Save&amp;rdquo;.
+Now you should see the message &amp;ldquo;Your site is ready to be published at&amp;rdquo; along with a URL. You can view this url to see your website live on the internet! Please copy down this url as you will need to submit it with your assignment.</description>
+    </item>
+    
+    <item>
+      <title>Github Pages Link Shows a Blank Page</title>
+      <link>https://britton-clapp.github.io/cse204faq-html/question/github-pages-link-shows-a-blank-page/</link>
+      <pubDate>Wed, 11 Sep 2019 08:37:32 -0500</pubDate>
+      
+      <guid>https://britton-clapp.github.io/cse204faq-html/question/github-pages-link-shows-a-blank-page/</guid>
+      <description>In your assignment repository, on github.com, take a look at your index.html file. Your main content should be in index.html. If you have added your content to a different file, you should either:
+ On your computer, delete index.html, and then rename the file with your content to be index.html. Copy the content into index.html.  The blank page is due to the fact that your github pages URL will load index.</description>
+    </item>
     
     <item>
       <title>Canvas Wont Let Me Submit My Website</title>
