@@ -23,14 +23,5 @@ Scroll down to the Github Pages section. Make sure that master branch is selecte
 If Canvas says Assignment failed to submit, double-check your URL. If your URL starts with file:///, that&amp;rsquo;s just the location of where your assignment is stored on your computer.</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://britton-clapp.github.io/cse204faq-html/posts/test/</link>
-      <pubDate>Fri, 30 Aug 2019 21:13:43 -0500</pubDate>
-      
-      <guid>https://britton-clapp.github.io/cse204faq-html/posts/test/</guid>
-      <description>Some content here.</description>
-    </item>
-    
   </channel>
 </rss>
