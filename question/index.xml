@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Questions on CSE 204 Frequently Asked Questions</title>
-    <link>http://example.org/question/</link>
+    <link>https://britton-clapp.github.io/cse204faq-html/question/</link>
     <description>Recent content in Questions on CSE 204 Frequently Asked Questions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Sep 2019 07:31:37 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/question/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://britton-clapp.github.io/cse204faq-html/question/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Canvas Wont Let Me Submit My Website</title>
-      <link>http://example.org/question/canvas-wont-let-me-submit-my-website/</link>
+      <link>https://britton-clapp.github.io/cse204faq-html/question/canvas-wont-let-me-submit-my-website/</link>
       <pubDate>Wed, 11 Sep 2019 07:31:37 -0500</pubDate>
       
-      <guid>http://example.org/question/canvas-wont-let-me-submit-my-website/</guid>
+      <guid>https://britton-clapp.github.io/cse204faq-html/question/canvas-wont-let-me-submit-my-website/</guid>
       <description>To submit your assignment to Canvas, you need to get your assignment&amp;rsquo;s Github Pages URL.
 First, open github.com in your web browser. Navigate to the repository for your assignment. Go to the Settings section for the repository.
 Scroll down to the Github Pages section. Make sure that master branch is selected. Copy the URL and paste that into Canvas.
