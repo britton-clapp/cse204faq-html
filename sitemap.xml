@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://britton-clapp.github.io/cse204faq-html/question/how-do-i-submit-an-assignment/</loc>
+    <loc>https://britton-clapp.github.io/cse204faq-html/questions/how-do-i-submit-an-assignment/</loc>
     <lastmod>2020-01-13T20:39:19-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://britton-clapp.github.io/cse204faq-html/question/canvas-wont-let-me-submit-my-website/</loc>
+    <loc>https://britton-clapp.github.io/cse204faq-html/questions/cant-find-github-pages-link/</loc>
+    <lastmod>2019-09-11T13:56:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://britton-clapp.github.io/cse204faq-html/questions/github-pages-link-shows-a-blank-page/</loc>
+    <lastmod>2019-09-11T08:37:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://britton-clapp.github.io/cse204faq-html/questions/canvas-wont-let-me-submit-my-website/</loc>
     <lastmod>2019-09-11T07:31:37-05:00</lastmod>
   </url>
   
@@ -24,7 +34,7 @@
   </url>
   
   <url>
-    <loc>https://britton-clapp.github.io/cse204faq-html/question/</loc>
+    <loc>https://britton-clapp.github.io/cse204faq-html/questions/</loc>
     <lastmod>2020-01-13T20:39:19-06:00</lastmod>
     <priority>0</priority>
   </url>
