@@ -6,10 +6,20 @@
     <description>Recent content on CSE 204 Frequently Asked Questions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 08:55:07 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 09:18:35 -0600</lastBuildDate>
     
 	<atom:link href="https://britton-clapp.github.io/cse204faq-html/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Do Late Coupons Work?</title>
+      <link>https://britton-clapp.github.io/cse204faq-html/questions/how-do-late-coupons-work/</link>
+      <pubDate>Wed, 15 Jan 2020 09:18:35 -0600</pubDate>
+      
+      <guid>https://britton-clapp.github.io/cse204faq-html/questions/how-do-late-coupons-work/</guid>
+      <description>Each student starts with a set number of late coupons. When a late assignment is graded, a coupon is deducted for each day the assignment is late. When there are no coupons remaining, points will be deducted for each day that the assignment is late.
+You can view how many late coupons you have left by checking the &amp;ldquo;Late Coupons Remaining&amp;rdquo; assignment in Canvas.</description>
+    </item>
     
     <item>
       <title>How Can I Delete a Repository on Github.com?</title>
