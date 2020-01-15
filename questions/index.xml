@@ -40,7 +40,7 @@ The &amp;ldquo;Delete this repository&amp;rdquo; button will delete your reposit
       
       <guid>https://britton-clapp.github.io/cse204faq-html/questions/how-do-i-submit-an-assignment/</guid>
       <description>Submitting an assignment requires several steps. Here&amp;rsquo;s a detailed walkthrough.
- Commit your code via git. Push your code up to Github. Publish your code via Github Pages. Submit your Github URL to Canvas. Double-check your URL after submitting.  </description>
+ Commit your code via git. Push your code up to Github. Publish your code via Github Pages. Submit your Github URL to Canvas. Double-check your URL after submitting.  1. Commit Your Code The Github Desktop application will detect changed files and will prompt you to commit your changes. Keep in mind that &amp;ldquo;committing&amp;rdquo; just means that we&amp;rsquo;re done for now and want git to keep track of what we&amp;rsquo;ve changed.</description>
     </item>
     
     <item>
