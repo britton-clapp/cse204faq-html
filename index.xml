@@ -6,10 +6,22 @@
     <description>Recent content on CSE 204 Frequently Asked Questions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2020 20:39:19 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 08:55:07 -0600</lastBuildDate>
     
 	<atom:link href="https://britton-clapp.github.io/cse204faq-html/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Can I Delete a Repository on Github.com?</title>
+      <link>https://britton-clapp.github.io/cse204faq-html/questions/how-can-i-delete-a-repository-on-github.com/</link>
+      <pubDate>Wed, 15 Jan 2020 08:55:07 -0600</pubDate>
+      
+      <guid>https://britton-clapp.github.io/cse204faq-html/questions/how-can-i-delete-a-repository-on-github.com/</guid>
+      <description>Find your repository page on Github.com. Github Desktop has a button labeled &amp;ldquo;View on Github&amp;rdquo; that will take you directly to it.
+Click the &amp;ldquo;Settings&amp;rdquo; tab.
+On the settings page, scroll all the way to the bottom to the section called &amp;ldquo;Danger Zone&amp;rdquo;.
+The &amp;ldquo;Delete this repository&amp;rdquo; button will delete your repository.</description>
+    </item>
     
     <item>
       <title>How Do I Submit an Assignment?</title>
