@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE 204 Frequently Asked Questions</title>
@@ -6,19 +6,29 @@
     <description>Recent content on CSE 204 Frequently Asked Questions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 09:18:35 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 14:02:29 -0600</lastBuildDate>
     
 	<atom:link href="https://britton-clapp.github.io/cse204faq-html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CSE 204 Waitlist Policy</title>
+      <link>https://britton-clapp.github.io/cse204faq-html/questions/cse-204-waitlist-policy/</link>
+      <pubDate>Mon, 01 Feb 2021 14:02:29 -0600</pubDate>
+      
+      <guid>https://britton-clapp.github.io/cse204faq-html/questions/cse-204-waitlist-policy/</guid>
+      <description>No modifications or exceptions are made to the waitlist for CSE204.
+In most cases, there are around 20 students per section who drop the class. This means that if you are at position 20 or below, there is a decent chance that you will be admitted eventually. It&amp;rsquo;s probably wise to attend lectures/zoom sessions and turn in homework on time.
+If you are above position 20 on the waitlist, you should probably have a backup plan.</description>
+    </item>
+    
+    <item>
       <title>How Do Late Coupons Work?</title>
       <link>https://britton-clapp.github.io/cse204faq-html/questions/how-do-late-coupons-work/</link>
-      <pubDate>Wed, 15 Jan 2020 09:18:35 -0600</pubDate>
+      <pubDate>Wed, 13 Jan 2021 09:18:35 -0600</pubDate>
       
       <guid>https://britton-clapp.github.io/cse204faq-html/questions/how-do-late-coupons-work/</guid>
-      <description>Each student starts with a set number of late coupons. When a late assignment is graded, a coupon is deducted for each day the assignment is late. When there are no coupons remaining, points will be deducted for each day that the assignment is late.
-You can view how many late coupons you have left by checking the &amp;ldquo;Late Coupons Remaining&amp;rdquo; assignment in Canvas.</description>
+      <description>Each student starts with a set number of late coupons (7). When a late assignment is graded, a coupon is deducted for each day the assignment is late (so, submitting 1 hour after the deadline or 23 hours after the deadline is the same thing, as you will be using one late coupon). When there are no coupons remaining, points will be deducted for each day that the assignment is late.</description>
     </item>
     
     <item>
